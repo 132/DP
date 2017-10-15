@@ -1,0 +1,13 @@
+ListOrder -> PUSH 
+[ListOrder contains more than Order] && [Order contrains addObserver and removeObserver]
+
+KitchetObserver && others should have only one
+
+in case of every kinds structure -> how to make observer a general way instead of know the methods of subject
+
+push -> order + information
+pull -> ask order which one is changed
+
+
+Decorator
+the requirement belongs to the star or tree
